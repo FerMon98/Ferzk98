@@ -1,0 +1,4 @@
+- 👋 Hey there! I’m Fernanda 😁
+- 👀 I really like music, movies, books, food and art in general 🥰
+- 🌱 I’m currently learning Javascript, I'm following the Full Stack Engineer path in Codecademy
+- 📫 You can reach me through linkedIn https://www.linkedin.com/in/fernanda-montalvan/ or through Instagram @Ferzk98
